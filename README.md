@@ -5,8 +5,8 @@
 💻 I'm learning REACT JS right now <br> 
 
 
-
-<p align="left"> <a href="https://twitter.com/toufikhasan088" target="blank"><img src="https://img.shields.io/twitter/follow/toufikhasan088?logo=twitter&style=for-the-badge" alt="toufikhasan088" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://twitter.com/toufikhasan088" target="blank"><img src="https://img.shields.io/twitter/follow/toufikhasan088?logo=twitter&style=for-the-badge" alt="toufikhasan088" /></a> </p> -->
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML5 / CSS3 / Tailwind CSS / Bootstrap <br>
