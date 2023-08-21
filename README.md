@@ -1,7 +1,7 @@
 ## Hi, I'm Md.Toufik hasan 👋
 
 <p>
-👑 I am Web Developer <br> 
+<!-- 👑 I am Web Developer <br>  -->
 💻 I'm learning REACT JS right now <br> 
 
 
